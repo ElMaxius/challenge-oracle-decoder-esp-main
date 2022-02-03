@@ -67,10 +67,6 @@ btnLimpiar.addEventListener("click",function(event){
 });
 
 
-
-
-
-
 function encriptar(mensaje)
 {
     var textOriginal = mensaje;
